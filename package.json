@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/firebase": "^3.2.1"
+  }
+}
